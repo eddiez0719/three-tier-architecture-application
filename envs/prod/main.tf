@@ -8,7 +8,7 @@ terraform {
     }
 backend "s3" {
     bucket = "distinctioncoding-tfstatefilebucket"
-    key = "dev/orderhub/terraform.tfstate"
+    key = "prod/orderhub/terraform.tfstate"
     region = "ap-southeast-2"
     encrypt = true
     use_lockfile = true 
@@ -20,7 +20,7 @@ provider "aws" {
     default_tags {
          tags = {
             Project = "orderhub"
-            Environment = "dev"
+            Environment = "prod"
          }
     }
 }

@@ -1,0 +1,56 @@
+{
+	"folders": [
+		{
+			"path": "../mlc-public-website-crawl-tf"
+		},
+		{
+			"path": "../gh-resources"
+		},
+		{
+			"path": "../tf-shared-components"
+		},
+		{
+			"path": "../mlc-global-web-search-web-crawler"
+		},
+		{
+			"path": "../gh-actions"
+		},
+		{
+			"path": "../shared-workflows"
+		},
+		{
+			"path": "../Docker_security"
+		},
+		{
+			"path": "../gh-lib"
+		},
+		{
+			"path": "../ai.unified-api-client-package"
+		},
+		{
+			"path": "../jira-mcp-server"
+		},
+		{
+			"path": "../week5_demo"
+		},
+		{
+			"path": "../week5-class2-demo"
+		},
+		{
+			"path": "../week6-class1-demo"
+		},
+		{
+			"path": "../week6-class1-demo2"
+		},
+		{
+			"path": "../week7-claimIQ"
+		},
+		{
+			"path": "../week7-class2-demo"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
